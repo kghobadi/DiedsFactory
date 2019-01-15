@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: d8ea334104497d449897578e468cda0e
+timeCreated: 1540441048
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: D-DIN Condensed
+  fontNames:
+  - D-DIN Condensed
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 387ac24a6306183499c6f7d4bc0b7b11, type: 3}
+  - {fileID: 12800000, guid: b291a02b53957d242a0ba692d3843004, type: 3}
+  - {fileID: 12800000, guid: 8f26e7eb16a01c44eabf9a4cd67bc4d5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

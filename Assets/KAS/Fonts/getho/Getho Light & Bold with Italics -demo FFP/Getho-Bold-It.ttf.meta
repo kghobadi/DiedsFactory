@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: ecb67cbe446065745ad9a59d7bb69fa5
+timeCreated: 1540441048
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Getho
+  fontNames:
+  - Getho
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 64707cf2bba64854a9f25a68bbaae8bf, type: 3}
+  - {fileID: 12800000, guid: 097a9ba58d3ee024390260956113b7be, type: 3}
+  - {fileID: 12800000, guid: e2df991be9db7d8448c6560202ce8f89, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
